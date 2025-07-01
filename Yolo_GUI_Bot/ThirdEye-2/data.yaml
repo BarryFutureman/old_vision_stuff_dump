@@ -1,0 +1,19 @@
+names:
+- button
+- field
+- heading
+- iframe
+- image
+- label
+- link
+- text
+nc: 8
+roboflow:
+  license: CC BY 4.0
+  project: thirdeye
+  url: https://universe.roboflow.com/web-detection/thirdeye/dataset/2
+  version: 2
+  workspace: web-detection
+test: ThirdEye-2/test/images
+train: ThirdEye-2/train/images
+val: ThirdEye-2/valid/images

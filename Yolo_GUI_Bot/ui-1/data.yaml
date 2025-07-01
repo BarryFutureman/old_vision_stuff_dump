@@ -1,0 +1,20 @@
+names:
+- Background Image
+- Checked View
+- Icon
+- Image
+- Input Field
+- Pop-Up Window
+- Sliding Menu
+- Text Button
+- Text
+nc: 9
+roboflow:
+  license: CC BY 4.0
+  project: ui-f13oe
+  url: https://universe.roboflow.com/utkarsh-bb0fd/ui-f13oe/dataset/1
+  version: 1
+  workspace: utkarsh-bb0fd
+test: ui-1/test/images
+train: ui-1/train/images
+val: ui-1/valid/images

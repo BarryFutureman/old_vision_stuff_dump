@@ -1,0 +1,12 @@
+names:
+- google_chrome_icon
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: clicker
+  url: https://universe.roboflow.com/bot-wtice/clicker/dataset/1
+  version: 1
+  workspace: bot-wtice
+test: test/images
+train: train/images/train2017
+val: valid/images
